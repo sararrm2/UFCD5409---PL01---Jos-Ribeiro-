@@ -1,0 +1,17 @@
+commit a186d9fbb4c34a64d946d8a2e3f6d3b94954d316
+Author: T0122941 <T0122941@ciber.local>
+Date:   Wed Jun 14 21:55:31 2023 +0100
+
+    Removendo o ficheiro  file1.txt
+
+commit 09c4ffeba60b2d856f1e102a12e5e4dcc0643576
+Author: T0122941 <T0122941@ciber.local>
+Date:   Wed Jun 14 21:48:06 2023 +0100
+
+    Adicionando o file2.txt
+
+commit 6ac162975c815ef0bd8c07ce92e0732d2879cc78
+Author: T0122941 <T0122941@ciber.local>
+Date:   Wed Jun 14 21:46:11 2023 +0100
+
+    Adicionando o file1.txt
